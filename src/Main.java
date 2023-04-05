@@ -3,5 +3,9 @@ public class Main {
         Animal animal=new Animal();
         animal.animal="Dog";
         animal.breed="Pitbull";
+
+        Cat cat=new Cat();
+        cat.breed="American shorthair";
+        cat.name="Tangy";
     }
 }
